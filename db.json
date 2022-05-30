@@ -1,5 +1,5 @@
-[
-    
+
+    {
         "Project1":
             [
                 {
@@ -61,5 +61,4 @@
                     "submodule4":["sub4intro.md","sub4contract.md"]
                 }
             ]
-    
-]
+    }
